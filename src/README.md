@@ -25,3 +25,5 @@ This MCP server includes three tools:
 
 1. Clone this repository:
 ```bash
+git clone https://github.com/YOUR_USERNAME/my-mcp-server.git
+cd my-mcp-server
